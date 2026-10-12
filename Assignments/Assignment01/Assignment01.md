@@ -351,7 +351,7 @@ Before submission, confirm that:
  My GitHub username is visible in every Ubuntu server terminal screenshot.
  Every terminal screenshot shows the required command and its relevant result.
  Every browser screenshot shows the required repository, URL, page, or status.
- No screenshot contains a token, password, private key, or other credential.
+ No screenshot contains a token, password, private key, or other credential. 
  My CC, GitHub Assignment01, and <username>.github.io repositories are public.
  My Gitea Assignment01 repository was created and pushed from the Ubuntu server.
  All repositories use the main branch.
